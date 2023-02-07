@@ -1,4 +1,4 @@
-# Weather-Forecast-Dashboard
+# Weather-Dashboard
 
 ## Description
 Enter in your city of choice and select search to view the current weatherand forecast for the next five days.
